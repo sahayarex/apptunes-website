@@ -1959,6 +1959,9 @@ pre code {
   .col-md-6 {
     width: 50%;
   }
+  .main_features .col-md-6 {
+    min-height: 196px;
+  }
   .col-md-5 {
     width: 41.66666667%;
   }

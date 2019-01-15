@@ -57,9 +57,15 @@ Author URI: http://www.xpeedstudio.com
         padding-bottom: 200px;
     }
     .navbar-brand {
-        padding: 15px 15px;
+        padding: 0px;
+        
     }
-
+    .navbar-brand img {
+        width: 52%;
+        text-align: center;
+        align-items: center;
+        display: inline-block;
+    }
 
 }
 
