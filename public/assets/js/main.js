@@ -46,6 +46,12 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/labici1.png'
         },{
             src: 'assets/images/labici2.png'
+        },{
+            src: 'assets/images/labici-large1.png'
+        },{
+            src: 'assets/images/labici-large2.png'
+        },{
+            src: 'assets/images/labici-large3.png'
         }],
         gallery: {
             enabled: true
@@ -79,6 +85,12 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/livelocl1.jpg'
         },{
             src: 'assets/images/livelocl2.jpg'
+        },{
+            src: 'assets/images/livelocl-large3.png'
+        },{
+            src: 'assets/images/livelocl-large2.png'
+        },{
+            src: 'assets/images/livelocl-large1.png'
         }],
         gallery: {
             enabled: true
@@ -90,6 +102,14 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/separarensuneix1.png'
         },{
             src: 'assets/images/separarensuneix2.png'
+        },{
+            src: 'assets/images/sepronix-large1.png'
+        },{
+            src: 'assets/images/sepronix-large2.png'
+        },{
+            src: 'assets/images/sepronix-large3.png'
+        },{
+            src: 'assets/images/sepronix-large4.png'
         }],
         gallery: {
             enabled: true
@@ -101,6 +121,12 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/sepl1.png'
         },{
             src: 'assets/images/sepl2.png'
+        },{
+            src: 'assets/images/sepl-large1.png'
+        },{
+            src: 'assets/images/sepl-large2.png'
+        },{
+            src: 'assets/images/sepl-large3.png'
         }],
         gallery: {
             enabled: true
@@ -112,6 +138,12 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/pictuscode1.png'
         },{
             src: 'assets/images/pictuscode2.png'
+        },{
+            src: 'assets/images/pituscode-large1.png'
+        },{
+            src: 'assets/images/pituscode-large2.png'
+        },{
+            src: 'assets/images/pituscode-large3.png'
         }],
         gallery: {
             enabled: true
@@ -123,6 +155,12 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/aadiya1.png'
         },{
             src: 'assets/images/aadiya2.png'
+        },{
+            src: 'assets/images/aaditya-large1.png'
+        },{
+            src: 'assets/images/aaditya-large2.png'
+        },{
+            src: 'assets/images/aaditya-large3.png'
         }],
         gallery: {
             enabled: true
@@ -134,6 +172,10 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/servicerabbit1.png'
         },{
             src: 'assets/images/servicerabbit3.png'
+        },{
+            src: 'assets/images/service-large2.png'
+        },{
+            src: 'assets/images/service-large1.png'
         }],
         gallery: {
             enabled: true
