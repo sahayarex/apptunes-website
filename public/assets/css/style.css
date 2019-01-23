@@ -872,7 +872,8 @@ Nav Menu style
 }
 .navbar-brand > img {
     display: block;
-    width: 80%;
+    width: 50%;
+    margin-top: 16px;
 }
 
 nav.navbar.bootsnav ul.nav li.active > a{
@@ -892,7 +893,7 @@ Home Section style
 ==================*/
 
 .home{
-    background: url(../images/home.jpg) no-repeat top center;
+    background: url(../images/home1.jpg) no-repeat top center;
     background-size: cover;
     position: relative;
     padding-top: 300px;

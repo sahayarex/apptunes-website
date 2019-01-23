@@ -63,6 +63,10 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/rigmove1.jpg'
         },{
             src: 'assets/images/rigmove2.jpg'
+        },{
+            src: 'assets/images/rigmove-0.jpg'
+        },{
+            src: 'assets/images/rigmove-2.jpg'
         }],
         gallery: {
             enabled: true
@@ -74,6 +78,10 @@ jQuery(document).ready(function ($) {
             src: 'assets/images/synduite1.jpg'
         },{
             src: 'assets/images/synduite2.jpg'
+        },{
+            src: 'assets/images/synduite-2.jpg'
+        },{
+            src: 'assets/images/synduite-0.jpg'
         }],
         gallery: {
             enabled: true

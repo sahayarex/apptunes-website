@@ -46,7 +46,7 @@ nav.navbar.bootsnav{
     -webkit-border-radius: 0px;
     -o-border-radius: 0px;
     border-radius: 0px;
-    background-color: #4a9445;
+    background-color: #7f7f7f;
     border: none;
     z-index: 9;
 }
@@ -1011,6 +1011,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         float: left;
         margin-right: -200px;
         margin-top: 10px;
+        width: 25px;
     }
     
     nav.navbar.bootsnav .navbar-collapse {
