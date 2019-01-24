@@ -160,15 +160,15 @@ jQuery(document).ready(function ($) {
     $('.aadiya').magnificPopup({
         type: 'image',
         items: [{
-            src: 'assets/images/aadiya1.png'
+            src: 'assets/images/ueptomeu1.png'
         },{
-            src: 'assets/images/aadiya2.png'
+            src: 'assets/images/ueptomeu2.png'
         },{
-            src: 'assets/images/aaditya-large1.png'
+            src: 'assets/images/ueptomeu-1.png'
         },{
-            src: 'assets/images/aaditya-large2.png'
+            src: 'assets/images/ueptomeu-2.png'
         },{
-            src: 'assets/images/aaditya-large3.png'
+            src: 'assets/images/ueptomeu-3.png'
         }],
         gallery: {
             enabled: true
