@@ -60,12 +60,23 @@ Author URI: http://www.xpeedstudio.com
         padding: 0px;
         
     }
-    .navbar-brand img {
+    /* .navbar-brand .logo {
         width: 52%;
         text-align: center;
         align-items: center;
         display: inline-block;
         margin-top: 0px;
+    } */
+    .navbar-brand .logo {
+        display: block;
+        width: 50%;
+        /* margin-top: 16px; */
+        background: url('../../assets/images/logo.png') no-repeat center center;
+        width: 323px;
+        height: 60px;
+    }
+    .no-background .navbar-brand .logo {
+        background: url('../../assets/images/logo.png') no-repeat center center;
     }
 
 }
