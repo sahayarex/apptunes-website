@@ -117,9 +117,9 @@ section { overflow: hidden; }
     background-color: #f2f2f2;
 }
 .bg-primary{background-color: #4A9445;}
-.bg-blue{background-color:#4A9445;}
+.bg-blue{background-color:#012a5e;}
 .bg-mega{background-color:#1b1b1b;}
-.bg-grey{background-color: #f5f5f5;}
+.bg-grey{background-color: #ffffff;}
 .bg-black{background-color: #222222;}
 .bg-white{background-color: #fff;}
 
@@ -219,7 +219,7 @@ h5,
 h6 {
     margin: 0;
     font-family: 'Raleway', sans-serif;
-    color:#1a1a1a;
+    color:#012a5e;
     margin-bottom: 10px;
 }
 
@@ -713,7 +713,7 @@ textarea::-ms-input-placeholder{
 .head_title h5{
     font-weight: 400;
     font-size:1.125rem;
-    color:#333;
+    color:#012a5e;
 }
 
 /*End off pridifain css*/
@@ -881,7 +881,7 @@ nav.navbar.bootsnav ul.nav li.active > a{
 }
 
 nav.navbar.bootsnav ul.nav li a:hover{
-    color:#4A9445;
+    color:#ef323a;
 }
 .navbar-nav > li > a {
     padding-top: 25px;
@@ -919,7 +919,7 @@ Home Section style
     bottom:0;
     width: 0;
     height: 0;
-    border-bottom: 140px solid #f5f5f5;
+    border-bottom: 140px solid #ffffff;
     border-right: 690px solid transparent;
 }
 
@@ -930,7 +930,7 @@ Home Section style
     bottom:0;
     width: 0;
     height: 0;
-    border-bottom: 140px solid #f5f5f5;
+    border-bottom: 140px solid #ffffff;
     border-left: 690px solid transparent;
 }
 
@@ -954,12 +954,12 @@ Featured section style
 }
 .features_item .f_item_icon i{
     font-size: 1.5rem;
-    color: #454545;
+    color: #012a5e;
     width: 50px;
     height: 50px;
-     text-align: center; 
+    text-align: center;
     line-height: 50px;
-    border: 1px solid #454545;
+    border: 0.5px solid #012a5e42;
     display: inline-block;
     border-radius: 50%;
     -webkit-transition: all 0.5s;
@@ -981,12 +981,12 @@ Featured section style
 
 }
 .features_item:hover .f_item_icon i{
-    background-color: rgba(74,148,69, 0.712);
-    border-color:rgba(74,148,69, 0.712);
+    background-color: #ef323a;
+    border-color:#ef323a;
     color:#fff;
 }
 .features_item:hover .f_item_text h3{
-    color: rgba(74,148,69, 0.712);
+    color: #ef323a;
 }
 
 
@@ -1009,7 +1009,7 @@ Featured section style
     position: relative;
 }
 .business_overlay{
-    background-color: rgba(74,148,69, 0.712);
+    background-color: #012a5e;
     width:100%;
     height: 100%;
     left:0;
@@ -1213,7 +1213,7 @@ work Section style
 /*Test Section
 ======================*/
 .test{
-    background: url(../images/test.jpg) no-repeat top center;
+    background: url(../images/new.jpg) no-repeat top center;
     background-size: cover;
     position: relative;
 }
@@ -1272,7 +1272,7 @@ work Section style
     height: 0;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-top: 20px solid #4A9445;
+    border-top: 20px solid #012a5e;
     left:50%;
     top:0%;
     z-index: 3;
@@ -1354,7 +1354,7 @@ work Section style
 .widget_newsletter .form-control{
     width:80%;
     height: 40px;
-    background-color: #1a1a1a;
+    background-color: #012a5e;
     border-color:#333333;
     display: inline-block;
 }
