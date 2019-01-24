@@ -870,10 +870,16 @@ Nav Menu style
     padding: 0px 15px;
     margin-top: 0px;
 }
-.navbar-brand > img {
+.navbar-brand .logo {
     display: block;
     width: 50%;
-    margin-top: 16px;
+    /* margin-top: 16px; */
+    background: url('../../assets/images/logo.png') no-repeat center center;
+    width: 323px;
+    height: 80px;
+}
+.no-background .navbar-brand .logo {
+    background: url('../../assets/images/logo1.png') no-repeat center center;
 }
 
 nav.navbar.bootsnav ul.nav li.active > a{
@@ -919,8 +925,8 @@ Home Section style
     bottom:0;
     width: 0;
     height: 0;
-    border-bottom: 140px solid #ffffff;
-    border-right: 690px solid transparent;
+    /* border-bottom: 140px solid #ffffff;
+    border-right: 690px solid transparent; */
 }
 
 .main_home:after{
@@ -930,8 +936,8 @@ Home Section style
     bottom:0;
     width: 0;
     height: 0;
-    border-bottom: 140px solid #ffffff;
-    border-left: 690px solid transparent;
+    /* border-bottom: 140px solid #ffffff;
+    border-left: 690px solid transparent; */
 }
 
 .home_btns{
